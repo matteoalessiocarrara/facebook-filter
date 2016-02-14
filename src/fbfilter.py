@@ -149,7 +149,7 @@ class FbFilter(object):
 		
 		logger.info("Eseguendo il test basato sull'uguaglianza per le proprietà richieste")
 		
-		for property_name in self.required_property_for_equality_test:
+		for property_name in self.rules.required_property_for_equality_test:
 			logger.debug("Controllando la proprietà %s", property_name)
 
 			required = self.required_property_for_equality_test[property_name]
@@ -176,7 +176,7 @@ class FbFilter(object):
 		
 		ret = []
 		
-		for property_name in self.optional_property_for_equality_test:
+		for property_name in self.rules.optional_property_for_equality_test:
 			logger.debug("Controllando la proprietà %s", property_name)
 
 			required = self.optional_property_for_equality_test[property_name]
