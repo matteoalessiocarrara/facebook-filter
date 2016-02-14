@@ -68,7 +68,7 @@ class FilterRules(object):
 		# ATTENZIONE: Deve sempre restituire qualcosa, anche quando non ci sono controlli
 		return ok
 		
-	def optional_property_custom_test(self):
+	def optional_property_custom_test(self, profile):
 		"""
 		Controlla quali requisiti opzionali sono soddisfatti dal profilo, con dei test
 		personalizzati
