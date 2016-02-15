@@ -146,7 +146,7 @@ CLASSES
      |  
      |  Methods defined here:
      |  
-     |  optional_property_custom_test(self)
+     |  optional_property_custom_test(self, profile)
      |      Controlla quali requisiti opzionali sono soddisfatti dal profilo, con dei test
      |      personalizzati
      |      Restituisce una lista con i nomi dei requisiti soddisfatti
@@ -201,8 +201,8 @@ DATA
     lib_name = 'lib-fbfilter'
     license = 'License GPLv3+: GNU GPL version 3 or later <http...e is NO ...
     version_major = 1
-    version_minor = 0
+    version_minor = 1
     version_patch = 0
-    version_str = '1.0.0'
+    version_str = '1.1.0'
 
 
