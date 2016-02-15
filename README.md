@@ -28,7 +28,7 @@ ridefinendo i metodi contenuti e/o i dizionari.
 
 ## Esempio ##
 
-Un software che si basa su questa libreria è [FigaFind](https://github.com/matteoalessiocarrara/FigaFind), 
+Un software che si basa su questa libreria è [lib-figafind](https://github.com/matteoalessiocarrara/lib-figafind), 
 e sto anche scrivendo un interfaccia per questa libreria, aggiungerò il link quando
 l'avrò pubblicata.
 
