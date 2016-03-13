@@ -38,7 +38,7 @@ version_str = "%d.%d.%d" % (version_major, version_minor, version_patch)
 
 # Lib
 # Numero di versione major
-htmlfbapi_version_required = 1
+htmlfbapi_version_required = 4
 
 # Copyright
 
