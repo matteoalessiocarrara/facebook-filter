@@ -201,8 +201,8 @@ DATA
     lib_name = 'lib-fbfilter'
     license = 'License GPLv3+: GNU GPL version 3 or later <http...e is NO ...
     version_major = 1
-    version_minor = 1
+    version_minor = 2
     version_patch = 0
-    version_str = '1.1.0'
+    version_str = '1.2.0'
 
 

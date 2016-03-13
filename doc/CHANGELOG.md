@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## 2016/03/13 1.2.0 ##
+
+Changed
+ - Aggiornata libreria html facebook api
+
+
 ## 2016/02/15 1.1.0 ##
 
 Changed
